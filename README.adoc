@@ -22,9 +22,15 @@
 
 === Installation
 // インストール方法を書く．
-
+----
+bundle install
+npm install
+----
 
 === Usage
+----
+foreman start
+----
 
 == Contributing
 ////
