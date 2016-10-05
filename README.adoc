@@ -1,0 +1,47 @@
+= Webpack Rails Starter
+
+== Overview
+////
+名前のすぐ下にこのツールの概要を一言で書く．
+////
+
+== Description
+////
+概要だけでは伝わらない場合にもう少し丁寧な説明を書く．
+////
+
+== Getting Started
+=== Requirements
+==== Supported Platforms
+////
+ツールやライブラリを使うのに依存がある場合は，その依存を書く．
+////
+* Ruby 2.3.1
+* Rails 5
+* PostgreSQL
+
+=== Installation
+// インストール方法を書く．
+
+
+=== Usage
+
+== Contributing
+////
+OSSとして公開する以上は，多くの人に参加してもらいたい．そのために，Contributionの方法を書いておくと良い．
+////
+
+See link:CONTRIBUTING.adoc[CONTRIBUTING.adoc]
+
+== Author
+// Creators/MAINTAINERS
+* https://github.com/xmeta[xmeta]
+////
+== Thanks
+// 謝辞
+////
+
+== Licence
+// == COPYING
+// LICENCEを明示する
+MIT
