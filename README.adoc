@@ -23,7 +23,7 @@
 === Installation
 // インストール方法を書く．
 ----
-git clone https://github.com/xmeta/WebpackRailsStarter.gitc
+git clone https://github.com/xmeta/WebpackRailsStarter.git
 cd WebpackRailsStarter
 bundle install
 npm install
