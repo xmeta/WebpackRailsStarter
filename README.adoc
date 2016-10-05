@@ -12,13 +12,18 @@
 
 == Getting Started
 === Requirements
-==== Supported Platforms
 ////
 ツールやライブラリを使うのに依存がある場合は，その依存を書く．
 ////
+
 * Ruby 2.3.1
 * Rails 5
 * PostgreSQL
+
+=== Supported Platforms
+* Linux
+* Windows
+* MacOS
 
 === Installation
 // インストール方法を書く．
