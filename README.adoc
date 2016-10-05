@@ -23,7 +23,7 @@
 === Supported Platforms
 * Linux
 * Windows
-* MacOS
+* macOS
 
 === Installation
 // インストール方法を書く．
