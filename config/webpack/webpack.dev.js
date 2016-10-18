@@ -10,7 +10,7 @@ const commonConfig = require('./webpack.common.js'); // the settings that are co
  * Webpack Constants
  */
 const ENV = process.env.ENV = process.env.NODE_ENV = 'development';
-const PORT = process.env.PORT || 3808;
+const PORT = 3808;
 
 /**
  * Webpack configuration
